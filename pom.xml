@@ -6,7 +6,7 @@
 
     <groupId>ch.bzz</groupId>
     <artifactId>Bookshelf</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>Bookshelf</name>
     <packaging>war</packaging>
 
